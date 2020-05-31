@@ -1,0 +1,15 @@
+a:3:{s:4:"time";i:1590121182;s:3:"ttl";i:86400;s:4:"data";O:8:"stdClass":15:{s:10:"setting_id";s:1:"1";s:17:"setting_site_name";s:13:"Rampa Akademi";s:21:"setting_site_keywords";s:70:"rampa akademi, akademi, eğitim, öğretim, mesleki eğitim, sertifika";s:24:"setting_site_description";s:143:"Akademik çalışmalarınızda sıklıkla ihtiyaç duyduğunuz çeviri ve revizyon çalışmalarında, hızlı ve güvenilir çözümler sunmak";s:19:"setting_site_author";s:13:"Mutfak Yapım";s:22:"setting_site_copyright";s:48:"© 2020 Rampa Akademi. Tüm Hakları Saklıdır.";s:18:"setting_site_phone";s:19:"+90 (212) 435 76 88";s:20:"setting_site_phone_2";s:19:"+90 (536) 997 37 47";s:18:"setting_site_email";s:21:"bilgi@rampakademi.com";s:19:"setting_site_adress";s:59:"Merkez Mah. İstanbul Cad. No:48/4 Bağcılar – İstanbul";s:26:"setting_site_external_code";s:681:"<!-- Yandex.Metrika counter -->
+<script type='text/javascript' >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, 'script', 'https://mc.yandex.ru/metrika/tag.js', 'ym');
+
+   ym(59611153, 'init', {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src='https://mc.yandex.ru/watch/59611153' style='position:absolute; left:-9999px;' alt='' /></div></noscript>
+<!-- /Yandex.Metrika counter -->";s:21:"setting_site_currency";s:1:"1";s:15:"setting_favicon";s:10:"460719.png";s:12:"setting_logo";s:9:"32069.png";s:19:"setting_site_status";s:1:"1";}}

@@ -1,0 +1,6 @@
+.label {font-size: 11px; font-weight: 400; margin-top: -1px !important; display: inline-block; padding: 7px 8px;}
+
+div.pagination {margin: 0px 0px 25px 0px; height: 40px; text-align: right;}
+div.pagination strong {margin: 3px; background-color: #4C4C4C; border: solid 1px #CCCCCC; padding: 5px 13px; color: #FFFFFF; font-weight: bold;}
+div.pagination a {margin: 3px; display: inline-block; background-color: #F00000; border: solid 1px #CCCCCC; padding: 5px 13px; color: #FFFFFF; font-weight: bold;}
+div.pagination a:hover {background-color: #4C4C4C;}
